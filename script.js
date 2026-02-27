@@ -7,7 +7,7 @@ const images = [
     { id: 5, name: "enginer.png", path: "img/enginer.png", size: "149.3 KB", date: "27 Feb 2026" },
     { id: 6, name: "image.png", path: "img/image.png", size: "240.6 KB", date: "27 Feb 2026" },
     { id: 7, name: "nurse.png", path: "img/nurse.png", size: "215.7 KB", date: "27 Feb 2026" },
-    { id: 8, name: "politic.png", path: "img/mahasiswa.png", size: "303.0 KB", date: "27 Feb 2026" },
+    { id: 8, name: "mahasiswa.png", path: "img/mahasiswa.png", size: "303.0 KB", date: "27 Feb 2026" },
     { id: 9, name: "reporter.png", path: "img/reporter.png", size: "232.2 KB", date: "27 Feb 2026" },
     { id: 10, name: "services.png", path: "img/services.png", size: "288.3 KB", date: "27 Feb 2026" },
     { id: 11, name: "studying.jpg", path: "img/studying.jpg", size: "65.0 KB", date: "27 Feb 2026" },
